@@ -1,5 +1,5 @@
-# Anti_Prime_Numbers
+# Anti Prime Numbers
 
-Anti Prime Nimber is a number which has more devisers than all previous.
+Anti Prime Number is a number which has more devises than all previous.
 
-Example: 1,2, 4, 6, 12, 24, ...
+Example: 1, 2, 4, 6, 12, 24, ...
