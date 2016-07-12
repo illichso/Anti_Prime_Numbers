@@ -74,9 +74,9 @@ public class AntiPrimeNumberSearcher {
         return "Number[" + number +
                 "] has [" + deviserCount +
                 "] devisers; search took [" + nanosecondsTimeSearch + "] nanoseconds"
-                + ", or [" + getMilliSeconds().toEngineeringString() + "] milliseconds"
-                + ", or [" + getSeconds().toEngineeringString() + "] seconds"
-                + ", or [" + getMinutes().toEngineeringString() + "] minutes.";
+                + ", or [" + getMilliSeconds().toPlainString() + "] milliseconds"
+                + ", or [" + getSeconds().toPlainString() + "] seconds"
+                + ", or [" + getMinutes().toPlainString() + "] minutes.";
     }
 
     public void print() {
